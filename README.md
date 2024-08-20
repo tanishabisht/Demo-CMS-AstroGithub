@@ -7,6 +7,7 @@ This project was created from scratch using Astro. The command used to initializ
 npm create astro@latest -- --template blog
 ```
 
+
 ## Getting Started
 
 Follow the instructions below to set up and run the application locally.
